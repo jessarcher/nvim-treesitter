@@ -10,6 +10,9 @@
   (switch_block)
   (match_block)
   (case_statement)
+  (match_conditional_expression)
+  (member_call_expression)
+  (parenthesized_expression)
   "["
 ] @indent.begin
 
